@@ -59,7 +59,7 @@ public class TestJunit {
     public void testAddMatrix() {
         double[][] test = {
                 {5, 5, 5},
-                {7, 7, 6},
+                {7, 7, 7},
                 {9, 9, 9},
         };
         Matrix testMatrix = new Matrix(test);
